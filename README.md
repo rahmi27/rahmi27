@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Rahmi Atilla Avcı
 - 👀 I’m interested in PAWNO and C#
 - 🌱 I’m currently learning C# and C++
-- 💞️ I’m looking to collaborate on nobody
 - 📫 How to reach me mail: rahmiatillaavci@gmail.com and discord: Aina#1881
 
 <!---
